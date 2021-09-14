@@ -25,10 +25,5 @@ public class SSLTest {
                 .keyStore("pathoffile","password")
                 .when().get("myapi");
 
-
-
     }
-
-
-
 }
